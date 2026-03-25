@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Analytics (Priority 🚀)
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmritpaL-Singh0945&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="170"/>
@@ -125,7 +125,7 @@ Web Dev        █████████░░
 
 ---
 
-## 🐍 Contribution Snake (Cool Factor 🔥)
+## Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
