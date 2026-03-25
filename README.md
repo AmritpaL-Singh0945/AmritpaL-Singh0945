@@ -19,6 +19,14 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 * 🎓 CSE (AI) @ Chitkara University
@@ -96,10 +104,10 @@
 ## 📈 Current Focus
 
 ```text
-DSA         █████████░░
-ML          ██████████░
-Deep Learning ███████░░░
-Web Dev     █████████░░
+DSA            █████████░░
+ML             ██████████░
+Deep Learning  ███████░░░
+Web Dev        █████████░░
 ```
 
 ---
