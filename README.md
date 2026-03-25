@@ -33,7 +33,6 @@
 * 🤖 ML + Data Science focused
 * 🧠 Strong in problem solving & core CS
 * ⚡ Currently: Machine Learning + DSA + React
-* 🎯 Goal: Crack top tech (30+ LPA) & build AI startup
 
 ---
 
