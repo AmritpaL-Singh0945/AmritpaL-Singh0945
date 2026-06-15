@@ -22,9 +22,8 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap&cache=0" />
 </p>
-
 ---
 
 ## 🚀 About Me
