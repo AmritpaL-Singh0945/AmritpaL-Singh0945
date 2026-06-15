@@ -94,7 +94,7 @@
 
 > Student networking platform
 
-* React + Django
+* React + Java
 * Clean UI + scalable backend
 
 ---
