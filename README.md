@@ -113,7 +113,7 @@ Web Dev        █████████░░
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/amritpal-singh-47437b321">
+  <a href="https://linkedin.com/in/amritpal-singh0945">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:amritpalsinghs0945@gmail.com">
