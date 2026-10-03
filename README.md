@@ -1,3 +1,7 @@
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=00ff41&background=0D111700&vCenter=true&width=520&height=30&lines=%24+whoami;amritpal+%E2%80%94+ML+%26+Data+Science;%24+status+--online" alt="typing" />
+</p>
+
 ```text
  █████╗ ███╗   ███╗██████╗ ██╗████████╗██████╗  █████╗ ██╗
 ██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝██╔══██╗██╔══██╗██║
@@ -33,10 +37,12 @@
       |_________|     Role       :  ML & Data Science
        \_______/      University :  Chitkara University
     .───────────.     Degree     :  B.Tech CSE (AI)
-   /             \    Stack      :  Python / C++ / JS
-  '───────────────'   Focus      :  ML / DSA / React
+   /             \    Stack      :  Python / C++ / JS / Java / C++
+  '───────────────'   Focus      :  ML / DSA / React 
                       Status     :  Open to opportunities
 ```
+
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=00FF41&background=0D111700&vCenter=true&width=520&height=30&lines=%24+cat+skills.txt" alt="$ cat skills.txt" /></p>
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
@@ -44,7 +50,7 @@
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
 ║  [LANGUAGES]                                                     ║
-║   L Python  |  C++  |  JavaScript                                ║
+║   L Python  |  C++  |  JavaScript | Java                         ║
 ║                                                                  ║
 ║  [ML_&_DATA_SCIENCE]                                             ║
 ║   L TensorFlow  |  PyTorch  |  scikit-learn                      ║
@@ -62,7 +68,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-## Featured Projects
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=00FF41&background=0D111700&vCenter=true&width=520&height=30&lines=%24+ls+projects/" alt="$ ls projects/" /></p>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -71,34 +77,48 @@
 │                                                                  │
 │  $ ls -l projects/                                               │
 │                                                                  │
-│    drug-information-system/                                      │
-│      L AI system for medicine benefits and side effects          │
-│      L ML + API integration, structured output, disclaimer       │
+│    algoflow/                                                     │
+│      L Interactive algorithm visualizer                          │
+│      L Built with raw HTML, CSS and JavaScript                   │
 │                                                                  │
 │    sector-eats/                                                  │
 │      L Full-stack food ordering platform                         │
 │      L Cart, order management, admin dashboard                   │
 │      L Stack: Flask, SQLAlchemy                                  │
 │                                                                  │
-│    theindex/                                  [IN DEVELOPMENT]   │
+│    theindex/                                                     │
 │      L Student networking platform                               │
-│      L Stack: React, Java                                        │
+│      L Stack: MERN (MongoDB, Express, React, Node.js)            │
+│                                                                  │
+│    football-price-prediction/                                    │
+│      L ML model that predicts football player prices             │
+│                                                                  │
+│    c-version-control/                                            │
+│      L Version control system built purely in C                  │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-## GitHub Stats
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=00FF41&background=0D111700&vCenter=true&width=520&height=30&lines=%24+./stats.sh+--github+--leetcode" alt="$ ./stats.sh --github --leetcode" /></p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritpaL-Singh0945&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritpaL-Singh0945&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritpaL-Singh0945&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=9be9a8&rank_icon=github&include_all_commits=true&count_private=true&custom_title=amritpal%40github%20%7C%20stats" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritpaL-Singh0945&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=9be9a8&custom_title=top%20languages" alt="Top languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=AmritpaL-Singh0945&hide_border=true&background=0D1117&stroke=00ff4133&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=9be9a8&sideLabels=6e7681&dates=6e7681" alt="Streak stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritpaL-Singh0945&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=contribution%20graph" alt="Contribution graph" />
 </p>
 
 <p>
   <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode stats" />
 </p>
 
-## Connect
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=00FF41&background=0D111700&vCenter=true&width=520&height=30&lines=%24+./connect.sh" alt="$ ./connect.sh" /></p>
 
 ```text
 ┌──────────────────────────────────────────────────────────────────┐
@@ -118,6 +138,13 @@
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
+
+<p>
+  <a href="https://github.com/AmritpaL-Singh0945"><img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/amritpal-singh0945"><img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="mailto:amritpalsinghs0945@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://leetcode.com/AmritpalSingh0945"><img src="https://img.shields.io/badge/LeetCode-00ff41?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=0d1117" alt="LeetCode" /></a>
+</p>
 
 Open to internships, collaborations, and conversations about machine learning and software engineering.
 
