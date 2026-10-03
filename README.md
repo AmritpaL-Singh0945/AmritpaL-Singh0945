@@ -1,136 +1,131 @@
-<h1 align="center">Hey 👋, I'm Amritpal</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Scientist;Machine+Learning+Engineer;CSE+(AI)+Student;Building+AI+Projects+🚀&center=true&width=500&height=50">
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritpaL-Singh0945&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmritpaL-Singh0945&theme=tokyonight&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritpaL-Singh0945&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
-</p>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap&cache=0" />
-</p>
----
-
-## 🚀 About Me
-
-* 🎓 CSE (AI) @ Chitkara University
-* 🤖 ML + Data Science focused
-* 🧠 Strong in problem solving & core CS
-* ⚡ Currently: Machine Learning + DSA + React
-
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
-</p>
-
-### 📊 ML & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-</p>
-
-### 🌐 Web Dev
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,html,css" />
-</p>
-
-### 🛢 Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🧪 Drug Information System
-
-> AI system providing medicine benefits & side effects
-
-* Built with ML + API integration
-* Includes disclaimer + structured output
-
----
-
-### 🍔 Sector Eats
-
-> Full-stack food ordering system
-
-* Cart + order management
-* Admin dashboard
-* Flask + SQLAlchemy
-
----
-
-### 🌐 TheIndex (Ongoing 🚧)
-
-> Student networking platform
-
-* React + Java
-* Clean UI + scalable backend
-
----
-
-## 📈 Current Focus
-
 ```text
-DSA            █████████░░
-ML             ██████████░
-Deep Learning  ███████░░░
-Web Dev        █████████░░
+ █████╗ ███╗   ███╗██████╗ ██╗████████╗██████╗  █████╗ ██╗
+██╔══██╗████╗ ████║██╔══██╗██║╚══██╔══╝██╔══██╗██╔══██╗██║
+███████║██╔████╔██║██████╔╝██║   ██║   ██████╔╝███████║██║
+██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║   ██╔═══╝ ██╔══██║██║
+██║  ██║██║ ╚═╝ ██║██║  ██║██║   ██║   ██║     ██║  ██║███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝     ╚═╝  ╚═╝╚══════╝
 ```
 
----
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  FILE: about_me.txt          ENCODING: UTF-8          LINES: 12  │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  > Name      : Amritpal Singh                                    │
+│  > Handle    : @AmritpaL-Singh0945                               │
+│  > Role      : ML Engineer  |  Data Scientist  |  Builder        │
+│  > Status    : [##########] ONLINE - Building and learning       │
+│                                                                  │
+│  > I build practical AI systems and full-stack applications,     │
+│    with clean, maintainable engineering behind them.             │
+│                                                                  │
+│  > Currently : Machine Learning  |  DSA  |  React                │
+│  > Education : B.Tech CSE (AI), Chitkara University              │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-## 🌐 Connect With Me
+```text
+       .────────.
+      | >_      |     amritpal@github
+      |         |     ──────────────────────────────
+      |_________|     Role       :  ML & Data Science
+       \_______/      University :  Chitkara University
+    .───────────.     Degree     :  B.Tech CSE (AI)
+   /             \    Stack      :  Python / C++ / JS
+  '───────────────'   Focus      :  ML / DSA / React
+                      Status     :  Open to opportunities
+```
 
-<p align="center">
-  <a href="https://linkedin.com/in/amritpal-singh0945">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:amritpalsinghs0945@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  SKILLS.exe --list-all                                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [LANGUAGES]                                                     ║
+║   L Python  |  C++  |  JavaScript                                ║
+║                                                                  ║
+║  [ML_&_DATA_SCIENCE]                                             ║
+║   L TensorFlow  |  PyTorch  |  scikit-learn                      ║
+║   L NumPy  |  Pandas                                             ║
+║                                                                  ║
+║  [WEB_DEVELOPMENT]                                               ║
+║   L React  |  Flask  |  Django  |  HTML  |  CSS                  ║
+║                                                                  ║
+║  [DATABASES]                                                     ║
+║   L MySQL  |  PostgreSQL  |  SQLite                              ║
+║                                                                  ║
+║  [CURRENT_FOCUS]                                                 ║
+║   L Machine Learning  |  DSA  |  React                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+## Featured Projects
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  LOADING PROJECTS...                                             │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  $ ls -l projects/                                               │
+│                                                                  │
+│    drug-information-system/                                      │
+│      L AI system for medicine benefits and side effects          │
+│      L ML + API integration, structured output, disclaimer       │
+│                                                                  │
+│    sector-eats/                                                  │
+│      L Full-stack food ordering platform                         │
+│      L Cart, order management, admin dashboard                   │
+│      L Stack: Flask, SQLAlchemy                                  │
+│                                                                  │
+│    theindex/                                  [IN DEVELOPMENT]   │
+│      L Student networking platform                               │
+│      L Stack: React, Java                                        │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmritpaL-Singh0945&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritpaL-Singh0945&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Top languages" />
 </p>
 
----
-
-## Contribution Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<p>
+  <img src="https://leetcard.jacoblin.cool/AmritpalSingh0945?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode stats" />
 </p>
 
----
+## Connect
 
-## ⚡ Fun Fact
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  ESTABLISHING CONNECTIONS...                                     │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  $ ssh git@github.com:AmritpaL-Singh0945                         │
+│    +--> github.com/AmritpaL-Singh0945                      [OPEN]│
+│                                                                  │
+│  $ ping linkedin.com --target /in/amritpal-singh0945             │
+│    +--> linkedin.com/in/amritpal-singh0945                 [OPEN]│
+│                                                                  │
+│  $ curl --request COLLAB mailto:amritpalsinghs0945               │
+│    +--> amritpalsinghs0945@gmail.com                       [OPEN]│
+│                                                                  │
+│  LATENCY: <24h  |  PACKET_LOSS: 0%  |  ALL PORTS: OPEN           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-I don’t just learn AI… I build with it 🚀
+Open to internships, collaborations, and conversations about machine learning and software engineering.
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  $ echo $SESSION_LOG                                             ║
+║  > Profile loaded successfully.                                  ║
+║  > Thanks for visiting.                                          ║
+║  > Logging off... [CTRL+D]                                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
